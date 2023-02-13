@@ -42,3 +42,12 @@
 .team-name {
   color: #fca311 !important;
 }
+
+.team-image {
+  max-height: 398.68px !important;
+}
+
+.clients-carousel {
+  margin-top: 5rem;
+  margin-bottom: -5rem;
+}
